@@ -1,0 +1,48 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    tools:context="com.example.layouts.MainActivity" >
+
+        <ImageView
+            android:id="@+id/imageView1"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:scaleType="matrix"
+            android:src="@android:color/holo_blue_dark" />
+        
+        <AnalogClock
+            android:id="@+id/analogClock1"
+            android:layout_width="205dp"
+            android:layout_height="196dp" 
+            android:layout_gravity="top|center"/>
+ 
+         <TextView
+             android:layout_width="wrap_content"
+            android:layout_gravity="top|center"
+            android:layout_marginTop="110dp"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:layout_height="wrap_content"
+            android:textColor="@android:color/white"
+            android:text="My Clock"/>
+        
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="20dp"
+            android:layout_gravity="center"
+            android:textColor="#fff"
+            android:text="@string/FrameIntro" />
+
+        <View
+            android:id="@+id/view1"
+            android:layout_width="120dp"
+            android:layout_height="65dp" 
+            android:layout_gravity="center"
+            android:background="@drawable/border1"/>
+        
+        
+        
+</FrameLayout>

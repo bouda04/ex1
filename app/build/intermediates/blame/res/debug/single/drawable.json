@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\bouda04\\AndroidStudioProjects\\ex1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\border1.xml",
+        "source": "C:\\Users\\bouda04\\AndroidStudioProjects\\ex1\\app\\src\\main\\res\\drawable\\border1.xml"
+    },
+    {
+        "merged": "C:\\Users\\bouda04\\AndroidStudioProjects\\ex1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\twitter.png",
+        "source": "C:\\Users\\bouda04\\AndroidStudioProjects\\ex1\\app\\src\\main\\res\\drawable\\twitter.png"
+    },
+    {
+        "merged": "C:\\Users\\bouda04\\AndroidStudioProjects\\ex1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pidgin.png",
+        "source": "C:\\Users\\bouda04\\AndroidStudioProjects\\ex1\\app\\src\\main\\res\\drawable\\pidgin.png"
+    },
+    {
+        "merged": "C:\\Users\\bouda04\\AndroidStudioProjects\\ex1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\turtle.png",
+        "source": "C:\\Users\\bouda04\\AndroidStudioProjects\\ex1\\app\\src\\main\\res\\drawable\\turtle.png"
+    },
+    {
+        "merged": "C:\\Users\\bouda04\\AndroidStudioProjects\\ex1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sunset.jpg",
+        "source": "C:\\Users\\bouda04\\AndroidStudioProjects\\ex1\\app\\src\\main\\res\\drawable\\sunset.jpg"
+    },
+    {
+        "merged": "C:\\Users\\bouda04\\AndroidStudioProjects\\ex1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cat.png",
+        "source": "C:\\Users\\bouda04\\AndroidStudioProjects\\ex1\\app\\src\\main\\res\\drawable\\cat.png"
+    }
+]

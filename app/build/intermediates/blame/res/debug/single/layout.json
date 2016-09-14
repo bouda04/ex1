@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\bouda04\\AndroidStudioProjects\\ex1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout3.xml",
+        "source": "C:\\Users\\bouda04\\AndroidStudioProjects\\ex1\\app\\src\\main\\res\\layout\\layout3.xml"
+    },
+    {
+        "merged": "C:\\Users\\bouda04\\AndroidStudioProjects\\ex1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout2.xml",
+        "source": "C:\\Users\\bouda04\\AndroidStudioProjects\\ex1\\app\\src\\main\\res\\layout\\layout2.xml"
+    },
+    {
+        "merged": "C:\\Users\\bouda04\\AndroidStudioProjects\\ex1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout4.xml",
+        "source": "C:\\Users\\bouda04\\AndroidStudioProjects\\ex1\\app\\src\\main\\res\\layout\\layout4.xml"
+    }
+]

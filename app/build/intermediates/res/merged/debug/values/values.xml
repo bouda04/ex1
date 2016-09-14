@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="FrameIntro">This activity demonstrates the use of Frame Layout with multiple views on top of each other</string>
+    <string name="Intro">This Activity demonstrates the use of the Table Layout with spanning columns</string>
+    <string name="TableIntro">This activity demonstrates the use of Grid Layout with embedded image views</string>
+    <string name="action_settings">Settings</string>
+    <string name="alt1">Alternative1</string>
+    <string name="alt2">Alternative2</string>
+    <string name="app_name">Layouts</string>
+    <string name="btName">Press me!</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="labelName">Your Name:</string>
+    <string name="layoutIntro">This activity demonstrates the use of Relative Layout with two internal Linear layouts</string>
+    <string name="opt1">Option1</string>
+    <string name="opt2">Option2</string>
+    <string name="opt3">Option3</string>
+    <string name="title_activity_frame">FrameActivity</string>
+    <string name="title_activity_table">TableActivity</string>
+    <string name="title_activity_test">TestActivity</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="cellStyle" parent="AppTheme">
+         	<item name="android:layout_width">wrap_content</item>
+         	<item name="android:layout_height">wrap_content</item>
+           <item name="android:layout_margin">2dp</item>
+           <item name="android:padding">15dp</item>
+           <item name="android:background">@android:color/darker_gray</item>    
+          
+     </style>
+    <style name="styMyImages" parent="AppTheme">
+         	<item name="android:layout_width">100dp</item>
+            <item name="android:layout_height">100dp</item>
+           <item name="android:layout_margin">20dp</item>
+<!--          <item name="android:background">@drawable/border1</item>-->     
+            </style>
+</resources>

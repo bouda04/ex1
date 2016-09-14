@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <TextView
+        android:id="@+id/tvInto"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="14dp"
+        android:layout_marginTop="30dp"
+        android:text="@string/Intro" />
+
+    <TableLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tvInto"
+        android:layout_marginTop="74dp" 
+        android:layout_centerHorizontal="true"
+        android:background="@android:color/holo_orange_light">
+
+        <TableRow
+            android:id="@+id/tableRow1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <TextView
+                style="@style/cellStyle"
+                android:layout_span="2"
+                android:text="Cell1" />
+
+            <TextView
+                style="@style/cellStyle"
+                android:layout_span="2"
+                android:text="Cell2"/>
+
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/tableRow2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <TextView
+                style="@style/cellStyle"
+                android:text="Cell3"/>
+
+             <TextView
+                style="@style/cellStyle"
+                android:text="Cell4"/>
+
+            <TextView
+                style="@style/cellStyle"
+                android:text="Cell5"/>
+    
+            <TextView
+                style="@style/cellStyle"
+                android:text="Cell6"/>    
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/tableRow3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+            
+             <TextView
+                style="@style/cellStyle"
+                android:text="Cell7"/>
+
+             <TextView
+                style="@style/cellStyle"
+                android:text="Cell8"/>
+
+            <TextView
+                style="@style/cellStyle"
+                android:text="Cell9"
+                android:layout_span="2"/>  
+        </TableRow>
+
+ 
+    </TableLayout>
+
+</RelativeLayout>
