@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\Users\\bouda04\\AndroidStudioProjects\\ex1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dashboard.xml",
+        "source": "C:\\Users\\bouda04\\AndroidStudioProjects\\ex1\\app\\src\\main\\res\\layout\\dashboard.xml"
+    },
+    {
         "merged": "C:\\Users\\bouda04\\AndroidStudioProjects\\ex1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout3.xml",
         "source": "C:\\Users\\bouda04\\AndroidStudioProjects\\ex1\\app\\src\\main\\res\\layout\\layout3.xml"
     },

@@ -16,8 +16,15 @@ public class MainActivity extends Activity {
 	}
 
 	@Override
-	protected void onResume() {
-		super.onResume();
+	protected void onPause() {
+		super.onPause();
+	}
+
+	@Override
+	protected void onSaveInstanceState(Bundle outState) {
+
+		if (true);
+		super.onSaveInstanceState(outState);
 	}
 
 	@Override
@@ -26,6 +33,11 @@ public class MainActivity extends Activity {
 		getMenuInflater().inflate(R.menu.main, menu);
 
 		return true;
+	}
+
+	@Override
+	protected void onResume() {
+		super.onResume();
 	}
 
 	@Override
