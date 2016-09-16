@@ -54,7 +54,8 @@
             <TextView
                 style="@style/cellStyle"
                 android:text="Cell5"/>
-    
+
+            
             <TextView
                 style="@style/cellStyle"
                 android:text="Cell6"/>    
